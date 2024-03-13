@@ -20,4 +20,11 @@ body {
   padding: 0 1.25rem;
 }
 
+input,
+select,
+textarea,
+button {
+  font-family: inherit;
+}
+
 
